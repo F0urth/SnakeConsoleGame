@@ -1,0 +1,17 @@
+C:\Users\Dom\source\repos\SnakeConsoleGame\SnakeConsoleGame\bin\Debug\net6.0\SnakeConsoleGame.exe
+C:\Users\Dom\source\repos\SnakeConsoleGame\SnakeConsoleGame\bin\Debug\net6.0\SnakeConsoleGame.deps.json
+C:\Users\Dom\source\repos\SnakeConsoleGame\SnakeConsoleGame\bin\Debug\net6.0\SnakeConsoleGame.runtimeconfig.json
+C:\Users\Dom\source\repos\SnakeConsoleGame\SnakeConsoleGame\bin\Debug\net6.0\SnakeConsoleGame.dll
+C:\Users\Dom\source\repos\SnakeConsoleGame\SnakeConsoleGame\bin\Debug\net6.0\SnakeConsoleGame.pdb
+C:\Users\Dom\source\repos\SnakeConsoleGame\SnakeConsoleGame\obj\Debug\net6.0\SnakeConsoleGame.csproj.AssemblyReference.cache
+C:\Users\Dom\source\repos\SnakeConsoleGame\SnakeConsoleGame\obj\Debug\net6.0\SnakeConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dom\source\repos\SnakeConsoleGame\SnakeConsoleGame\obj\Debug\net6.0\SnakeConsoleGame.AssemblyInfoInputs.cache
+C:\Users\Dom\source\repos\SnakeConsoleGame\SnakeConsoleGame\obj\Debug\net6.0\SnakeConsoleGame.AssemblyInfo.cs
+C:\Users\Dom\source\repos\SnakeConsoleGame\SnakeConsoleGame\obj\Debug\net6.0\SnakeConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\Dom\source\repos\SnakeConsoleGame\SnakeConsoleGame\obj\Debug\net6.0\SnakeConsoleGame.dll
+C:\Users\Dom\source\repos\SnakeConsoleGame\SnakeConsoleGame\obj\Debug\net6.0\refint\SnakeConsoleGame.dll
+C:\Users\Dom\source\repos\SnakeConsoleGame\SnakeConsoleGame\obj\Debug\net6.0\SnakeConsoleGame.pdb
+C:\Users\Dom\source\repos\SnakeConsoleGame\SnakeConsoleGame\obj\Debug\net6.0\SnakeConsoleGame.genruntimeconfig.cache
+C:\Users\Dom\source\repos\SnakeConsoleGame\SnakeConsoleGame\obj\Debug\net6.0\ref\SnakeConsoleGame.dll
+C:\Users\Dom\source\repos\SnakeConsoleGame\SnakeConsoleGame\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Dom\source\repos\SnakeConsoleGame\SnakeConsoleGame\obj\Debug\net6.0\SnakeConsoleGame.csproj.CopyComplete
